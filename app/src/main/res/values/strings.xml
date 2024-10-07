@@ -1,0 +1,141 @@
+<resources>
+    <string name="app_name">Daftar Hero MLBB</string>
+
+    <string name="heroes_name">Nama Pahlawan</string>
+    <string name="gelar">gelar</string>
+    <string name="spesialisasi">spesialisasi</string>
+    <string name="peran">peran</string>
+    <string name="rilis_date">Tahun Rilis</string>
+    <string name="detail">detail</string>
+
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="About">About</string>
+
+    <string name="Namaku">Moh. Novil Maarij</string>
+    <string name="emailku">mohnovil.2213@mhs.unesa.ac.id</string>
+    <string name="tentangku">hello, my name is Moh. Novil Maarij, I am an undergraduate student in Informatics Engineering at Surabaya State University. I am happy with the world of design and my hobby is design</string>
+
+    <string name="share">Share</string>
+
+    <string-array name="data_hero">
+        <item>Miya</item>
+        <item>Zilong</item>
+        <item>Nana</item>
+        <item>Alice</item>
+        <item>Tigreal</item>
+        <item>Alucard</item>
+        <item>Karina</item>
+        <item>Akai</item>
+        <item>Bane</item>
+        <item>Clint</item>
+        <item>Bruno</item>
+        <item>Eudora</item>
+        <item>Fanny</item>
+        <item>Hayabusa</item>
+    </string-array>
+
+    <string-array name="data_gelar">
+        <item>Sang Pemanan Cahaya Bulan</item>
+        <item>Tombak Naga</item>
+        <item>Si Leonin Yang Manis</item>
+        <item>Sang Ratu Darah</item>
+        <item>Sang Prajurit Fajar</item>
+        <item>Sang Pemburu Iblis</item>
+        <item>Pedang Bayangan</item>
+        <item>Sang Prajurit Panda</item>
+        <item>Sang Raja Beku</item>
+        <item>Hakim Barat</item>
+        <item>Sang Pelindung</item>
+        <item>Sang Penenun Petir</item>
+        <item>Sang Penari Pedang</item>
+        <item>Sang Bayangan Merah</item>
+    </string-array>
+
+    <string-array name="data_peran">
+        <item>Penembak Jitu</item>
+        <item>Pejuang/Pembunuh</item>
+        <item>Penyihir</item>
+        <item>Penyihir/Tank</item>
+        <item>Tank</item>
+        <item>Pejuang/Pembunuh</item>
+        <item>Pembunuh</item>
+        <item>Tank</item>
+        <item>Petarung/Penyihir</item>
+        <item>Penembak Jitu</item>
+        <item>Penembak Jitu</item>
+        <item>Penyihir</item>
+        <item>Pembunuh</item>
+        <item>Pembunuh</item>
+    </string-array>
+
+    <string-array name="data_spesialisasi">
+        <item>Finisher/kerusakan</item>
+        <item>Mengejar/Merusak</item>
+        <item>Tusuk/Pecahkan</item>
+        <item>Pengisian/regenerasi</item>
+        <item>Pengendalian Massa</item>
+        <item>Mengejar/Merusak</item>
+        <item>Finisher/kerusakan Sihir</item>
+        <item>penjaga/Pengendalian Massa</item>
+        <item>Dorong/Pecahkan</item>
+        <item>Penyelesai/Meledak</item>
+        <item>Penyelesai/Meledak</item>
+        <item>Kontrol/Ledakan</item>
+        <item>Mengejar/Menyelesaikan</item>
+        <item>Mengejar/Meledak</item>
+    </string-array>
+
+    <string-array name="data_rilis">
+        <item>2016</item>
+        <item>2019</item>
+        <item>2020</item>
+        <item>2020</item>
+        <item>2016</item>
+        <item>2019</item>
+        <item>2020</item>
+        <item>2020</item>
+        <item>2022</item>
+        <item>2024</item>
+        <item>2019</item>
+        <item>2019</item>
+        <item>2019</item>
+        <item>2019</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero011-portrait.png/revision/latest?cb=20231231181124</item>
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Hero161-portrait.png/revision/latest?cb=20240602234915</item>
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero051-portrait.png/revision/latest?cb=20240602234727</item>
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero041-portrait.png/revision/latest?cb=20240605132522</item>
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero061-portrait.png/revision/latest?cb=20240605132742</item>
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero071-portrait.png/revision/latest?cb=20240605132947</item>
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero081-portrait.png/revision/latest?cb=20240605133151</item>
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Hero091-portrait.png/revision/latest?cb=20240605133305</item>
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero111-portrait.png/revision/latest?cb=20240605133609</item>
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero131-portrait.png/revision/latest?cb=20240605133854</item>
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/4/44/Hero121-portrait.png/revision/latest?cb=20240605133847</item>
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/a/ab/Hero151-portrait.png/revision/latest?cb=20240605150035</item>
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero171-portrait.png/revision/latest?cb=20240605151224</item>
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/3/35/Hero211-portrait.png/revision/latest?cb=20220525170632</item>
+    </string-array>
+
+    <string-array name="detail_hero">
+        <item>Lahir di akhir Era Perselisihan, Miya menjadi saksi tragedi tak terkatakan yang menimpa para elf selama Perang Tanpa Akhir. Dia melihat bagaimana Abyss menodai Rawa Bayangan dan merusak banyak orangnya menjadi Peri Kegelapan. Baru setelah Dewi Bulan menciptakan Lunar Aegis di atas Azrya, Peri Bulan mampu berkembang lagi di bawah perlindungannya. Miya menjadi Pendeta Bulan, dan selama ribuan tahun dia melayani dengan setia di Kuil Bulan, dengan tekun mengawasi rakyatnya. Namun, dengan perluasan Abyss dan legiun gelapnya yang terus berlanjut, Land of Dawn sekali lagi diselimuti oleh kabut perang. Dari Hutan Terang Bulan, panggilan perang yang belum pernah terdengar selama ribuan tahun terdengar lagi. Miya mengambil busur peraknya dan bersumpah demi cahaya bulan untuk berjuang demi rakyatnya. </item>
+        <item>Zilong muda terpisah dari keluarganya dalam sebuah kecelakaan dan kemudian dirawat oleh Great Dragon , di mana ia berlatih bersama Ling di alam rahasia Dragon Altar, dan akhirnya menjadi rambut Great Dragon, mengemban tugas penting dalam melindungi Cadia Riverlands. Seorang pejuang yang saleh, yang telah bersumpah untuk melindungi Cadia Riverlands. Kemampuannya yang luar biasa dan keyakinannya yang teguh telah menjadikannya juru bicara Great Dragon dan juga murid kesayangannya. Jiwa dari Oriental Fighters.</item>
+        <item>Agar dapat mengendalikan sihir dalam tubuhnya dan berhenti membuat masalah, Nana pergi ke Rawa Bayangan untuk mencari buah ajaib bersama teman baiknya Molina. Namun saat bahaya datang, Molina tewas saat melindungi Nana. Meskipun Nana mendapatkan apa yang diinginkannya, ia juga kehilangan temannya. Dengan kekuatan yang ditinggalkan Molina, Nana memulai perjalanan baru.</item>
+        <item>Alice lahir di era pertikaian dahulu kala. Sebagai anak haram, ia mengalami penghinaan sejak kecil karena disihir oleh para iblis. Alice memicu pertikaian dalam keluarga, yang akhirnya menguasai seluruh keluarga dan menyebabkan semua anggotanya mengkhianati Penguasa Cahaya . Namun pengkhianatan mereka memicu hukuman ilahi dan mengubahnya menjadi iblis darah. Akibatnya, Alice membawa mereka untuk bergabung dengan Abyss dan mereka telah berjuang untuk kegelapan sejak saat itu.</item>
+        <item>Tigreal adalah bintang baru di Moniyan Empire. Namun dalam suatu pertempuran, Second Army yang dipimpinnya masuk jauh ke wilayah musuh sendirian di bawah perintah pejabat tinggi dan menderita kerugian besar, yang akhirnya membuat Tigreal terpaksa bertanggung jawab. Karena itu, ia meninggalkan Empire dan datang ke Northern Vale. Selama kurun waktu tersebut, Tigreal akhirnya menyelesaikan masalah dalam benaknya. Akhirnya, ia kembali ke Empire dan menjadi pemimpin Light Order.</item>
+        <item>Ayah Alucard adalah rekan seperjuangan Tigreal yang menghilang dalam pertempuran dengan para Iblis. Oleh karena itu, ia membenci kegelapan, bergabung dengan Biara Cahaya, dan bersumpah untuk menghancurkan semua Iblis. Namun kemudian ia mengetahui rahasia tersembunyi dari pertempuran ini, jadi ia meninggalkan Biara Cahaya dengan marah dan melawan kegelapan dengan caranya sendiri.</item>
+        <item>Karina adalah pembunuh terbaik di antara para Dark Elf yang hidup bergantung satu sama lain dengan adik perempuannya, Selena. Namun, sebagai kakak perempuan, Karina gagal mencegah Selena untuk mengabdikan dirinya kepada Abyss. Demi menghentikan perbuatan jahat sang adik, dan menemukan cara untuk menghidupkannya kembali, Karina memulai perjalanan baru.</item>
+        <item>Dahulu kala ada seekor panda di Lembah Sungai yang bernama Akai. Dengan impian menjadi pahlawan, ia selalu bersemangat menawarkan bantuan, tetapi sering kali malah menimbulkan lebih banyak masalah. Ia bekerja keras untuk mengejar impiannya, dan meskipun ia pernah menyimpang dari jalan yang benar. Pada akhirnya, ia mengingat kembali niat awalnya dan menjadi pahlawan sejati.</item>
+        <item>Bane adalah bajak laut yang ditempatkan di Lautan Beku. Ia pernah dengan kejam menguasai lautan luas di Lembah Utara . Ia adalah musuh bebuyutan Franco, yang kemudian menderita kekalahan di tangan Franco. Secara kebetulan, ia menjadi manusia setengah gurita seperti sekarang.</item>
+        <item>Clint adalah seorang sheriff di sebuah kota kecil di wilayah barat. Ia memerintahkan eksekusi keponakan Kane, Blandy. Penduduk kota itu takut pada Kane sehingga mereka membawa Blandy ke sebuah geng dan mengusir Clint. Namun, Blandy tetap tidak membiarkan kota itu lepas. Clint datang untuk menjaga kota dan masa-masa krisisnya. Setelah masalah itu selesai, ia pergi ke Los Pecados untuk membasmi kekuatan jahat Kane sepenuhnya.</item>
+        <item>Bruno, kapten Eruditio Rangers saat ini dan seorang pemain sepak bola bintang, memiliki masa lalu yang sangat berkesan. Lahir di Agelta Drylands , Bruno tumbuh di sebuah desa terpencil yang dikelilingi oleh kemiskinan. Namun, kesulitan-kesulitan itulah yang memicu kerinduannya akan kebebasan. Begitu ia cukup umur, Bruno bergabung dengan sebuah karavan dengan harapan dapat melihat dunia. Sayangnya, sebuah kecelakaan tragis merenggut kedua kakinya dan merenggut kebebasannya. Namun, takdir berpihak padanya, karena ketika karavan itu melewatinya melalui Eruditio, Bruno diberi kesempatan kedua. Meskipun berisiko besar, ia begitu tersentuh oleh gairah kota itu sehingga ia memutuskan untuk mengambil kesempatan itu, dan pada akhirnya keberaniannya membuahkan hasil. Ia tidak hanya mendapatkan kembali kedua kakinya, tetapi juga lebih cepat dari sebelumnya. Alih-alih melanjutkan perjalanannya, ia memutuskan untuk tetap tinggal di Eruditio dan menjadi pelindungnya. Ia bersumpah untuk menegakkan cita-cita Oasis di padang pasir dan membantu orang lain menemukan kebebasan sejati.</item>
+        <item>Eudora adalah seorang Light Elf yang memiliki bakat sihir tingkat tinggi, tetapi selalu kehilangan kendali atas emosinya karena ia didiskriminasi karena status Elf-nya. Kemudian, ia ditemukan oleh mentor Akademi Sihir, Theresa, yang membawanya ke Akademi Sihir untuk belajar. Akhirnya, ia mengatasi kesuraman di hatinya dan menggantikan Theresa, menjadi dekan Sekolah Ulturia.</item>
+        <item>Fanny adalah adik perempuan Tigreal , yang tumbuh di bawah perlindungan keluarga dan kakak laki-lakinya sejak ia masih kecil. Namun Tigreal menanggung kesalahan dalam pertempuran dan meninggalkan rumah. Mengabaikan halangan dari keluarganya, Fanny bergabung dengan tentara, dan melalui senjata rancangannya sendiri, ia berhasil menyelesaikan satu demi satu tugas, menjadi petarung luar biasa yang dapat mengurus dirinya sendiri.</item>
+        <item>Hayabusa adalah putra kedua dari kepala Sekte Bayangan. Sejak kecil, ia tumbuh di bawah kekuasaan tangan besi ayahnya, dan meskipun ninjutsu-nya tidak dapat menyaingi kakaknya, ia adalah teman baik dan anggota keluarga baginya. Ketika Hayabusa mengetahui bahwa kakaknya telah dilukai oleh Hanzo, ia memutuskan untuk menghabiskan sisa hidupnya menguasai ninjutsu, untuk memburu dan membalas dendam padanya...</item>
+    </string-array>
+
+
+</resources>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    android:id="@+id/card_view"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:layout_marginStart="8dp"
+    android:layout_marginTop="4dp"
+    android:layout_marginBottom="4dp"
+    android:layout_marginEnd="8dp"
+    app:cardCornerRadius="4dp">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:background="#023047">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/img_item_photo"
+            android:layout_width="100dp"
+            android:layout_height="110dp"
+            android:scaleType="centerCrop"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:src="@tools:sample/avatars">
+        </de.hdodenhof.circleimageview.CircleImageView>
+
+        <TextView
+            android:id="@+id/tv_item_name"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginEnd="8dp"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@id/img_item_photo"
+            app:layout_constraintTop_toTopOf="@id/img_item_photo"
+            tools:text="@string/heroes_name"
+            android:textColor="#8ecae6"
+            android:ellipsize="end"
+            android:maxLines="1"/>
+
+        <TextView
+            android:id="@+id/julukan"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="3dp"
+            android:text="@string/gelar"
+            android:textColor="#8ecae6"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="@id/tv_item_name"
+            app:layout_constraintTop_toBottomOf="@id/tv_item_name"
+            android:textSize="10dp"
+            android:ellipsize="end"
+            android:maxLines="1"/>
+
+        <TextView
+            android:id="@+id/peran"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="@string/peran"
+            android:textColor="#8ecae6"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="@id/julukan"
+            app:layout_constraintTop_toBottomOf="@id/julukan"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:textSize="10dp"/>
+
+        <TextView
+            android:id="@+id/spesialisasi"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="@string/spesialisasi"
+            android:textColor="#8ecae6"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="@id/peran"
+            app:layout_constraintTop_toBottomOf="@id/peran"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:textSize="10dp"/>
+
+        <TextView
+            android:id="@+id/tahun_rilis"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="@string/rilis_date"
+            android:textColor="#8ecae6"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="@id/spesialisasi"
+            app:layout_constraintTop_toBottomOf="@id/spesialisasi"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:textSize="10dp"/>
+
+        <TextView
+            android:id="@+id/details"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="@string/detail"
+            android:textColor="#8ecae6"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="@id/tahun_rilis"
+            app:layout_constraintTop_toBottomOf="@id/tahun_rilis"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:textSize="10dp"/>
+
+        <androidx.constraintlayout.widget.Guideline
+            android:id="@+id/guideline"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            app:layout_constraintGuide_begin="108dp"
+            android:ellipsize="end"
+            android:maxLines="1"/>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.cardview.widget.CardView>
